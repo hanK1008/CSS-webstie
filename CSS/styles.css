@@ -1,0 +1,35 @@
+body {
+    margin: 0px;
+}
+
+.top-container {
+    background-color: aqua;
+
+}
+
+h1 {
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+}
+
+p {
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+}
+
+.middle-container {
+    height: 200px;
+    width: 200px;
+    background-color: blue;
+}
+
+
+.bottom-container {
+    height: 200px;
+    width: 200px;
+    background-color: red;
+}

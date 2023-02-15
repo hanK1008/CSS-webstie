@@ -15,10 +15,13 @@ body {
 .name {
     margin: 0;
     font-family: 'Sacramento', cursive;
+    font-size: 90px;
+    /* 100%= 16px......1em = 16px , 90px = 5.625em = 562.5%*/
 }
 
 h2 {
     font-family: 'Montserrat', sans-serif;
+
 }
 
 h3 {
@@ -42,7 +45,7 @@ h3 {
     bottom: 300px;
 }
 
-.middle-container {
+/* .middle-container {
     height: 200px;
     width: 200px;
     background-color: blue;
@@ -53,4 +56,4 @@ h3 {
     height: 200px;
     width: 200px;
     background-color: red;
-}
+} */
